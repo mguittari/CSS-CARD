@@ -100,4 +100,8 @@ h2 {
   .designer-quote {
     font-size: 1.7rem;
   }
+  .card-button:hover {
+    cursor: pointer;
+    background-color: var(--hover-button-color);
+  }
 }
